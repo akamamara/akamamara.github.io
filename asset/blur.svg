@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="389" height="389" viewBox="0 0 389 389">
+  <defs>
+    <filter id="f1" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+  <rect id="Rectangle_14" data-name="Rectangle 14" width="389" height="389" fill="#f8f8f8"/>
+</svg>
